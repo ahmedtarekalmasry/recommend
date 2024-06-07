@@ -1,0 +1,8 @@
+flask
+mysql-connector-python
+numpy
+scikit-learn
+nltk
+requests
+waitress
+
